@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Eagle;
+    src: url(src/fonts/eagle.otf);
+  }
+  @font-face {
+    font-family: Poppins;
+    src: url(src/fonts/poppins.ttf);
+  }
+
+
+  body{
+    background-color: #000;
+  }
+
+  .header{
+    font-family: 'Eagle';
+    font-size: 30px;
+    color: #FFF;
+  }
